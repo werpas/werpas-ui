@@ -1,0 +1,10 @@
+{
+  "name": "werpaus-ui",
+  "version": "0.0.0",
+  "description": "Werpas UI Service.",
+  "main": "server.js",
+  "author": "jemo",
+  "dependencies": {
+    "express": "~4.7.2"
+  }
+}

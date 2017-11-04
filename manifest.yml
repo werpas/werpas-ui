@@ -1,0 +1,8 @@
+--- 
+applications: 
+- name: werpas-ui
+  host: werpas-dev
+  memory: 64M
+  disk_quota: 64M
+  command: node app.js
+  buildpack: nodejs_buildpack
